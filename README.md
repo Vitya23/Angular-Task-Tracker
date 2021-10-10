@@ -2,9 +2,8 @@
 
 Для работы, вместо БД используется виртуальный JSON server  REST API, для правильной работы этого приложения, нужно его установить!!!!!!!
 
-npm install -g json-server
-
-json-server --watch db.json --port 5000
+1)npm install -g json-server
+2)json-server --watch db.json --port 5000
 
 
 https://github.com/typicode/json-server
