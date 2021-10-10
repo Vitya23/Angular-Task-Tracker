@@ -2,6 +2,8 @@
 
 Для работы, вместо БД используется виртуальный JSON server  REST API, для правильной работы этого приложения, нужно его скачать!!!!!!!
 
+https://github.com/typicode/json-server
+
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
